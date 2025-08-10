@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2020 Raspberry Pi (Trading) Ltd.
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
 /*
 ・TinyUSB使用
 ・三相ハイサイドシグナル生成（三角波カウンタ、irq割り込みでwrap更新）
